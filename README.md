@@ -3,11 +3,11 @@ hello my friends , this is my first project in tableau
 
 project name:
 
-sales dashboard in tableau
+**sales dashboard in tableau**
 
 
 
-steps of working: 
+**steps of working:**
 
  (1)Create Area Chart
 
@@ -23,8 +23,8 @@ steps of working:
 
 
 
-Link t the dataset:https://lnkd.in/di-hQUbP
+**Link t the dataset:https://lnkd.in/di-hQUbP**
 
 
 
-#Tableau #dashboard #Salesdashboard #Interactivedashboard #Dataanalysis         #Dataanalyst #Businessanalysis #Businessanalys#
+#Tableau #dashboard #Salesdashboard #Interactivedashboard #Dataanalysis #Dataanalyst #Businessanalysis #Businessanalys#
